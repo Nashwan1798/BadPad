@@ -1,6 +1,12 @@
 # BadPad
 The schematics and code of my BadPad (my own custom macropad)
 _______________________________________________________________________________
+Features:
+128x32 OLED Display
+EC11 Rotary encoder (no button)
+9 SK8612MINI-E LEDS
+9 Keys
+
 This is a picture of the full build/assembly.
 <img width="492" height="540" alt="image" src="https://github.com/user-attachments/assets/2524f466-7db6-4061-bbe7-2b891cce7f4e" />
 _______________________________________________________________________________
