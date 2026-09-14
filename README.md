@@ -20,3 +20,6 @@ _______________________________________________________________________________
 A screenshot of the case, I honestly needed tons of help of AI with this one because fusion is really really confusing to use and I was not making any progress after hours of work put in.
 <img src=assets/assemblynomodel.png alt="Schematic" width="500"/>
 
+
+
+Inspired by Orpheuspad, Keybie-Hackpad, stratum-macropad.
