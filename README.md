@@ -8,7 +8,7 @@ _______________________________________________________________________________
 - 9 Keys
 ## CAD/ASSEMBLY
 This is a picture of the full build/assembly.
-<img src=assets/assembly.png alt="Schematic" width="300"/>
+<img src=assets/assembly.png alt="Schematic" width="500"/>
 _______________________________________________________________________________
 ## PCB
 
@@ -18,8 +18,11 @@ This is a picture of the PCB and I must say building the PCB was the easiest par
 _______________________________________________________________________________
 ## CASE
 A screenshot of the case, I honestly needed tons of help of AI with this one because fusion is really really confusing to use and I was not making any progress after hours of work put in.
-<img src=assets/assemblynomodel.png alt="Schematic" width="300"/>
+<img src=assets/assemblynomodel.png alt="Schematic" width="500"/>
 _______________________________________________________________________________
 ## Schematic
-<img src=assets/schematic.png alt="Schematic" width="300"/>
+a picture of the schematic
+<img src=assets/schematic.png alt="Schematic" width="500"/>
+
+
 Inspired by Orpheuspad, Keybie-Hackpad, stratum-macropad.
